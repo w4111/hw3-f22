@@ -12,7 +12,7 @@ You will then perform some normalizations.
 
 # 1. SQL, the sequel
 
-* [Click here to open the HW3 notebook in google colab](https://colab.research.google.com/github/w4111/hw0/blob/master/hw3.ipynb)
+* [Click here to open the HW3 notebook in google colab](https://colab.research.google.com/github/w4111/hw3-f22/blob/master/hw3.ipynb)
 * Click "ctrl + s" and save a copy to your own Google Drive
 * Follow the instructions in the notebook to complete and submit Part 1
 
