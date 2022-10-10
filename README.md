@@ -24,14 +24,14 @@ Click here [to open the Overleaf latex template](https://www.overleaf.com/read/r
 ### Warmup questions:
 
 (2 points) **Q2.1**: You have a relation `R(A,B,C)` and functional dependencies 
-  `C->A, A->B`
+  `A->C, B->C`
 
   * What are all the non-trivial functional dependencies in the closure
     that have  only one attribute on the right side?
   * What are all the keys of `R`?
 
 (3 points) **Q2.2**: You have a relation `S(A, B, C, D)` and functional dependencies 
-  `AB->C, BC->D, CD->A, and AD->B`
+  `AB->D, AC->D, BD->A, and CD->B`
 
   * What are all the non-trivial functional dependencies in the closure
     that have  only one attribute on the right side?
@@ -77,8 +77,8 @@ Suppose we have the functional dependencies:
         store -> address, name, city, zipcode, store_location, store_location_adress,
                 county_number, county, store_location_zip, store_location_city
         vendor_no -> vendor_name
-        category -> category_name
-        itemno -> category, bottle_volume_ml, im_desc, state_bottle_cost, state_bottle_retail
+        category -> category_name, im_desc
+        itemno -> category_name, bottle_volume_ml, im_desc, state_bottle_cost, state_bottle_retail
         date, store, vendor_no, itemno, invoice_line_no -> pack, sale_bottles, sale_dollars, sale_gallons, sale_liters
 
 
