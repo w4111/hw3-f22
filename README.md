@@ -19,8 +19,6 @@ You will then perform some normalizations.
 
 # 2. (14 pts) Normalization
 
-Click here [to open the Overleaf latex template](https://www.overleaf.com/read/rmfpnzcdsfxq) where you will write your answers.   Clone the template and edit it.   Hand writing or alternative submission formats are NOT accecptable.
-
 ### Warmup questions:
 
 (2 points) **Q2.1**: You have a relation `R(A,B,C)` and functional dependencies 
