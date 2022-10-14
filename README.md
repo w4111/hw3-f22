@@ -14,7 +14,7 @@ This assignment has two parts. In the first part, you will first flex your SQL m
 * Follow the instructions in the notebook to complete and submit Part 1
 
 
-# 2. (14 pts) Normalization
+# 2. (11 pts) Normalization
 
 ### Warmup questions:
 
@@ -84,7 +84,7 @@ Suppose we have the functional dependencies:
    dependencies?  Justify your answer
 
 (1 point) **Q2.5**: Let's verify whether `store` indeed determines the store name.   How many distinct `name` values 
-   exist for `store` number `2508` in the `iowa` dataset?  Solve this by running a SQL query.
+   exist for `store` number `2508` in the `iowa` dataset?  Solve this by running a SQL query and your answer should be a number.
 
 (1 point) **Q2.6**: In class, we discussed that functional dependencies (and constraints in general) cannot be
   determined just by looking at data in the database.  
