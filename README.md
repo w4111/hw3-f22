@@ -4,10 +4,7 @@
 * Due: 11/1 @ 11:59PM ET
 * worth 3.75% of your grade
 
-In this assignment it's time to get real!  You'll first flex your SQL
-muscles by
-writing SQL and reflecting on the experience.  
-You will then perform some normalizations.
+This assignment has two parts. In the first part, you will first flex your SQL muscles by writing SQL and reflecting on your experience. You will submit the completed colab notebook on Gradescope with submission instructions shown at the bottom of the notebook. In the second part, you will perform some normalizations that will be visible on Gradescope as an online assignment.
 
 
 # 1. SQL, the sequel
