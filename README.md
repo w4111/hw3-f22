@@ -1,6 +1,6 @@
 # Homework 3
 
-* Assigned: 10/13
+* Assigned: 10/14
 * Due: 11/1 @ 11:59PM ET
 * worth 3.75% of your grade
 
