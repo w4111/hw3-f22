@@ -5,6 +5,7 @@
 * worth 3.75% of your grade
 
 Edit: 10/28, Wording of Q1.5 in Part 1 
+Edit: 10/29, results dictionary added "store" key attribute
 
 This assignment has two parts. In the first part, you will first flex your SQL muscles by writing SQL and reflecting on your experience. You will submit the completed colab notebook on Gradescope with submission instructions shown at the bottom of the notebook. In the second part, you will perform some normalizations that will be visible on Gradescope as an online assignment.
 
