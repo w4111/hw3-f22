@@ -1,6 +1,7 @@
 # HW3 Part 2: Normalization
 
 # Solutions
+ * Edit 11/17: Key `category` added to Q2.1
 
 ## Warmup:
 Trivial functional dependencies are those where the right side is included on the left. For example: ABC->C
@@ -28,7 +29,7 @@ To derive additional functional dependencies, we can use Armstrong's Axioms:
 **Q2.1**
 
 Key in `iowa` -
-`(store, itemno, date, vendor_no, invoice_line_no)`
+`(store, itemno, date, vendor_no, invoice_line_no, category)`
 
 
 **Q2.2**
